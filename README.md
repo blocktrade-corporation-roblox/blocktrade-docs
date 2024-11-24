@@ -7,4 +7,4 @@ More soon.
 
 
 READ:
-# README.MD
+# LICENSE
