@@ -1,8 +1,8 @@
-# blocktrade-docs
+# costblox-docs
 
-*BlockTrade Repository Website*
+*Costblox Repository Website*
 
-It is not permitted to copy & paste scripts that BlockTrade scripted manually.
+It is not permitted to copy & paste scripts that Costblox scripted manually.
 More soon.
 
 
